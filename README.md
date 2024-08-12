@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @oktay-vosoughi
-- 👀 I’m interested in datascience and web developemet
-- 🌱 I’m currently learning js and data science simultanseously
-- 💞️ I’m looking to collaborate on real projects in field of data analysis or front-end 
+- 👀 I’m interested in datascience and interdciplinary project
+
+- 💞️ I’m looking to collaborate on real projects in field of data analysis 
 - 📫 How to reach me https://www.linkedin.com/in/oktay-vosoughi/
 - 
 
